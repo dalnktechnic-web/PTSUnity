@@ -1,5 +1,5 @@
 # PTS_GameDev
 
-Nama : Muhammad Nazrul Abidin
+Nama : Reyhan Erlangga Putra
 Kelas : 11 PPLG 3
-No Abs : 22
+No Abs : 29
